@@ -8,6 +8,7 @@ Dependencies
 
     Nodejs  4.4
     Mongodb 3.2
+    AngularJS 1.5.8
 
 Install
 -------
